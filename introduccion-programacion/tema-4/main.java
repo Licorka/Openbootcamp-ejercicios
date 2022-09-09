@@ -6,7 +6,7 @@ public class Main {
         //Ejercicio 2
         int numeroWhile = 1;
         //Ejercicio 3
-        int numerodoWhile = 2;
+        int numerodoWhile = 3;
         //Ejercicio 4
         int numeroFor = 0;
         //Ejercicio 5
