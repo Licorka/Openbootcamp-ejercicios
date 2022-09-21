@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+h1 {
+    font-family: 'Bungee Spice', cursive;
+
+    color:#9223c2;
+}
+
+#elemento-1 {
+    color: red;
+}
+
+ul li#elemento-1 {
+    font-size: 2rem;
+}
