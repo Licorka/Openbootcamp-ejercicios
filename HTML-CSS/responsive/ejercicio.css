@@ -11,7 +11,7 @@ body {
 }
 
 div.barralateral {
-    background-color: #2b2b2b;
+    background-color: aquamarine;
     color: white;
     display: flex;
     flex-direction: column;
@@ -30,6 +30,6 @@ div.principal {
     }
     div.barralateral {
         flex-direction: row;
-        justify-content: space-evenly;
+        justify-content: space-around;
     }
 }
